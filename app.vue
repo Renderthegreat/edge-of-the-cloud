@@ -61,9 +61,7 @@ const generatedAt = useState(() => new Date().toISOString())
     </div>
     <footer>
       <p class="company">
-        <a target="_blank" href="https://vercel.com" aria-label="Vercel">
-          <LogoVercel />
-        </a>
+        
       </p>
       <p class="details">
         Built with
@@ -73,7 +71,7 @@ const generatedAt = useState(() => new Date().toISOString())
       </p>
       <NuxtLink
         target="_blank"
-        href="https://github.com/pi0/nuxt-on-the-edge"
+        href="https://github.com/Renderthegreat/edge-of-the-cloud"
         class="source"
       >
         <LogoGithub />
