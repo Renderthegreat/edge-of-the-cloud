@@ -1,33 +1,18 @@
-# Nuxt on The Edge
+# Welcome to RenderLabs::Cloud - The Edge of the Cloud
 
-Inspired from [sveltekit-on-the-edge](https://github.com/Rich-Harris/sveltekit-on-the-edge) and [react-on-the-edge](https://github.com/vercel-labs/react-on-the-edge). It uses [Nuxt 3](https://v3.nuxtjs.org/) and [Nitro](https://nitro.unjs.io/) to deploy **Vue** based SSR on the edge.
+Welcome to **RenderLabs::Cloud**, your gateway to the future of cloud computing. We are excited to introduce you to our innovative platform that is designed to revolutionize the way you interact with the cloud. 
 
-**Online Demo:** https://nuxt-on-the-edge.vercel.app
+## What is the Edge of the Cloud?
 
-## Setup
+The "Edge of the Cloud" is a concept that refers to the decentralization of traditional cloud services. Instead of relying on a centralized server, edge computing brings computation and data storage closer to the location where it's needed, to improve response times and save bandwidth. 
 
-Enable corepack:
+At **RenderLabs::Cloud**, we have taken this concept a step further. Our platform allows you to create your own edge functions, giving you the power to customize your cloud experience to suit your specific needs. 
 
-```bash
-npx corepack enable
-```
+## Why Choose RenderLabs::Cloud?
 
-Make sure to install the dependencies:
+With **RenderLabs::Cloud**, you're not just using the cloud, you're shaping it. Our platform is designed to be user-friendly, making it easy for you to create, deploy, and manage your own edge functions. Whether you're a small business looking to scale up your operations, or a large enterprise seeking to optimize your cloud services, **RenderLabs::Cloud** has the tools and resources you need. 
 
-```bash
-pnpm install
-```
+## Join Us at the Edge
 
-## Development
-
-Start the development server on http://localhost:3000
-
-```bash
-pnpm dev
-```
-
-## Production
-
-The easiest way to deploy your app is to link the repo to your Vercel account. Alternatively, you can create a production build locally using `pnpm build`.
-
-Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment#presets) for more information.
+We invite you to join us at the edge of the cloud. With **RenderLabs::Cloud**, you can take control of your cloud experience and push the boundaries of what's possible. Welcome to the future of cloud computing. 😁
+https://labz.online
