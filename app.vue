@@ -57,7 +57,7 @@ const generatedAt = useState(() => new Date().toISOString())
           </div>
         </div>
       </main>
-      <div class="debug">Generated at {{ generatedAt }}</div>
+
     </div>
     <footer>
       <p class="company">
@@ -68,8 +68,8 @@ const generatedAt = useState(() => new Date().toISOString())
       <p class="details">
         Built with
         <NuxtLink to="https://v3.nuxtjs.org" target="_blank">Nuxt</NuxtLink>
-        on
-        <NuxtLink to="https://vercel.com" target="_blank">Vercel</NuxtLink>
+        +
+        <NuxtLink to="https://renderlabs.cloud" target="_blank">Renderlabs::Cloud infrastructure.</NuxtLink>
       </p>
       <NuxtLink
         target="_blank"
