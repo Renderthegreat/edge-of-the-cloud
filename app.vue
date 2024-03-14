@@ -32,7 +32,8 @@ const generatedAt = useState(() => new Date().toISOString())
     <div style="height: 100%">
       <AppBackground />
       <main>
-        <h1>Hello from the edge! Unfortunately our servers are not ready! Check in later.</h1>
+        <h1>Hello from the edge!</h1>
+				<p>Unfortunately our servers are not ready! Check in later.</p>
         <div class="info">
           <div class="block">
             <div class="contents">
