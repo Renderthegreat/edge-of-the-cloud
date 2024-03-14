@@ -6,7 +6,7 @@ const generatedAt = useState(() => new Date().toISOString())
 <template>
   <div id="container">
     <Head>
-      <Title>Nuxt on the edge</Title>
+      <Title>Renderlabs on the edge</Title>
       <Meta
         name="description"
         content="HTML, dynamically rendered in a city near you"
@@ -32,7 +32,7 @@ const generatedAt = useState(() => new Date().toISOString())
     <div style="height: 100%">
       <AppBackground />
       <main>
-        <h1>Hello from the edge!</h1>
+        <h1>Hello from the edge! Unfortunately our servers are not ready! Check in later.</h1>
         <div class="info">
           <div class="block">
             <div class="contents">
